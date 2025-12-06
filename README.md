@@ -7,7 +7,7 @@
 ## 🔗 Live Workflow Links
 
 ### **📊 Workflow**
-🎨 **[[https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda]([https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)])**
+[🎨 **[[https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda]([https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)])**](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda?conversationId=a38dd060-6f8e-41e8-8bd5-e4663634fc78&is_copilot_open=true)
 > Visual representation of the complete AI meeting prep automation system
 
 ### **⚡ Live Zap Workflows**
