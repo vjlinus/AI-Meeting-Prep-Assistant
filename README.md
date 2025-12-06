@@ -7,7 +7,7 @@
 ## 🔗 Live Workflow Links
 
 ### **📊 Workflow**
-🎨 **[View Interactive Canvas Workflow →]([https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
+🎨 **[View Interactive Canvas Workflow →]([https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda])**
 > Visual representation of the complete AI meeting prep automation system
 
 ### **⚡ Live Zap Workflows**
