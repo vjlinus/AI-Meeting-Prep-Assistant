@@ -114,22 +114,6 @@ Based on the live workflow:
 - **Feature Requests**: [PASTE_YOUR_FEATURE_REQUEST_URL_HERE]
 - **Community Discussion**: [PASTE_YOUR_DISCUSSION_URL_HERE]
 
-## 🤝 Contributing
-
-Want to improve this workflow? 
-
-1. **Access the live Canvas** (link above)
-2. **Create your modifications**
-3. **Share your enhanced version**
-4. **Submit a pull request** with your improvements
-
-## 📞 Contact & Support
-
-- 🌐 **Live Workflow**: [PASTE_YOUR_MAIN_WORKFLOW_URL_HERE]
-- 📧 **Email**: [your-email@company.com]  
-- 💬 **Slack/Discord**: [PASTE_YOUR_COMMUNITY_LINK_HERE]
-- 📖 **Documentation**: [PASTE_YOUR_DOCS_URL_HERE]
-
 ---
 
 ⭐ **Star this repo if you find it useful!** ⭐
