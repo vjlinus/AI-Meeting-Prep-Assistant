@@ -8,14 +8,17 @@
 
 🎨 **[View Interactive Canvas Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
 
-### **⚡ Live Zap Workflows**
-- 🔄 **[Client Prerequisites Automation Zap →]([PASTE_YOUR_ZAP_LINK_HERE])**
-- 🤖 **[Meeting Prep AI Agent →]([PASTE_YOUR_AGENT_LINK_HERE])**
+### **📊 Dashboard Components**
+![Dashboard Screenshot](./screenshots/dashboard.png)
+- Status Tracker - Real-time monitoring
+- Client Data Management - Complete client information  
+- AI Content Review - Generated meeting notes
+- Performance Monitoring - Success metrics
 
-### **📱 Dashboard Interface**
-- 📊 **[Meeting Prep Dashboard →]([PASTE_YOUR_DASHBOARD_LINK_HERE])**
-- 📋 **[Client Data Management →]([PASTE_YOUR_CLIENT_DATA_LINK_HERE])**
-
+### **🗃️ Data Schema**
+![Table Schema](./screenshots/table-schema.png)
+- Client Prerequisites Table (9 fields)
+- Status Tracking Table (9 fields)
 ---
 
 ## 🎯 Overview
