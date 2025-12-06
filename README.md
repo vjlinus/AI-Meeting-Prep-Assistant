@@ -12,9 +12,8 @@ This tool helps sales representatives walk into meetings fully prepared, with ke
 
 ![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 
-## 🔗 Live Workflow Links
 
-🎨 **[View Interactive Canvas Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
+🎨 **[View Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
 
 
 ## 🏗️ Architecture
