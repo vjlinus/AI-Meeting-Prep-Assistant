@@ -6,8 +6,7 @@
 
 ## 🔗 Live Workflow Links
 
-### **📊 Workflow**
-[🎨 **[https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda]
+🎨 **[View Interactive Canvas Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
 
 ### **⚡ Live Zap Workflows**
 - 🔄 **[Client Prerequisites Automation Zap →]([PASTE_YOUR_ZAP_LINK_HERE])**
