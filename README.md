@@ -1,6 +1,14 @@
 # 🤖 AI-Powered Meeting Prep Workflow
 
 > Intelligent B2B sales meeting preparation automation with AI-driven content generation, validation, and delivery.
+>
+> ## 🎯 Overview
+
+This workflow automates the entire meeting preparation process for B2B sales teams using AI-powered content generation, sophisticated validation layers, and intelligent delivery mechanisms. When new client data is added to Google Sheets, the system automatically generates personalized, professional meeting prep notes and delivers them to the appropriate sales representative.
+
+## Business Value : 
+
+This tool helps sales representatives walk into meetings fully prepared, with key talking points and relationship insights ready. It improves meeting effectiveness and reduces pre-call research time by up to 70%.
 
 ![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 
@@ -8,22 +16,6 @@
 
 🎨 **[View Interactive Canvas Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
 
-### **📊 Dashboard Components**
-![Dashboard Screenshot](./screenshots/dashboard.png)
-- Status Tracker - Real-time monitoring
-- Client Data Management - Complete client information  
-- AI Content Review - Generated meeting notes
-- Performance Monitoring - Success metrics
-
-### **🗃️ Data Schema**
-![Table Schema](./screenshots/table-schema.png)
-- Client Prerequisites Table (9 fields)
-- Status Tracking Table (9 fields)
----
-
-## 🎯 Overview
-
-This workflow automates the entire meeting preparation process for B2B sales teams using AI-powered content generation, sophisticated validation layers, and intelligent delivery mechanisms. When new client data is added to Google Sheets, the system automatically generates personalized, professional meeting prep notes and delivers them to the appropriate sales representative.
 
 ## 🏗️ Architecture
 
