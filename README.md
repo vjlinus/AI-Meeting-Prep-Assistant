@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Meeting Prep Workflow
 
-🎨 **[View Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
+![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 
 > Intelligent B2B sales meeting preparation automation with AI-driven content generation, validation, and delivery.
 >
@@ -12,7 +12,7 @@ This workflow automates the entire meeting preparation process for B2B sales tea
 
 This tool helps sales representatives walk into meetings fully prepared, with key talking points and relationship insights ready. It improves meeting effectiveness and reduces pre-call research time by up to 70%.
 
-![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
+🎨 **[View Workflow →](https://zapier.com/app/canvas/public/d51df5aa-6ed9-4d6a-8529-d364081cccda)**
 
 
 ## 🏗️ Architecture
