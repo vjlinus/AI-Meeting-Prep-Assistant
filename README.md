@@ -36,6 +36,9 @@ Client Input → Data Storage → Trigger Workflow → AI Analysis → Email/Sla
 
  
 
-⭐ **Star this repo if you find it useful!** ⭐
+## 📎 Author
+**Jason Linus**  
+Automation & GTM Engineer  
+[https://www.linkedin.com/in/jason-linus-7120a51/] | [Portfolio](https://nifty-yak-ffd.notion.site/Jason-Linus-8c81e08090a74a9ca2d20287693bebe9?pvs=74)
 
 *Built with Zapier Canvas • Powered by AI • Production Ready*
